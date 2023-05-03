@@ -12,11 +12,14 @@
         android:theme="@style/Theme.Activity5"
         tools:targetApi="31">
         <activity android:name=".DebugActivity"/>
-        <activity android:name=".MainActivityB">
+        <activity android:name=".MainActivityB"
+            android:parentActivityName=".MainActivityA">
         </activity>
-        <activity android:name=".MainActivityC">
+        <activity android:name=".MainActivityC"
+            android:parentActivityName=".MainActivityB">
         </activity>
-        <activity android:name=".MainActivityD">
+        <activity android:name=".MainActivityD"
+            android:parentActivityName=".MainActivityC">
         </activity>
         <activity
             android:name=".MainActivityA"
