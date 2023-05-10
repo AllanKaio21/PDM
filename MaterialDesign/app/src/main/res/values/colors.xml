@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color Tela 1 -->
+    <color name="T1color1">#FFFFFFFF</color>
+    <color name="T1color2">#AD3A09</color>
+    <color name="T1color3">#5B11AD</color>
+    <color name="T1color4">#FF000000</color>
+    <color name="T1color5">#FF3700B3</color>
+
+    <!-- Color Tela 2 -->
+    <color name="T2color1">#47FFDD</color>
+    <color name="T2color2">#41E89A</color>
+    <color name="T2color3">#54FF7F</color>
+    <color name="T2color4">#48E841</color>
+    <color name="T2color5">#8FFF47</color>
+
+    <!-- Color Tela 3 -->
+    <color name="T3color1">#15FA00</color>
+    <color name="T3color2">#B2C7B0</color>
+    <color name="T3color3">#0EAD00</color>
+    <color name="T3color4">#8AFA7F</color>
+    <color name="T3color5">#0A7D00</color>
+
+    <!-- Color Tela 4 -->
+    <color name="T4color1">#ADAC11</color>
+    <color name="T4color2">#00AD96</color>
+    <color name="T4color3">#ADAC00</color>
+    <color name="T4color4">#5B11AD</color>
+    <color name="T4color5">#AD3A09</color>
+
+    <!-- Color Project -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

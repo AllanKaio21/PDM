@@ -1,0 +1,70 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Theme Tela 1 -->
+    <style name="Theme.Tela1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/T1color2</item>
+        <item name="colorPrimaryVariant">@color/T1color4</item>
+        <item name="colorOnPrimary">@color/T1color1</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/T1color2</item>
+        <item name="colorSecondaryVariant">@color/T1color5</item>
+        <item name="colorOnSecondary">@color/T1color3</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background" >?attr/colorPrimaryVariant</item>
+        <item name="android:textColor" >?attr/colorOnPrimary</item>
+    </style>
+
+    <!-- Theme Tela 2 -->
+    <style name="Theme.Tela2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/T2color1</item>
+        <item name="colorPrimaryVariant">@color/T2color2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/T2color4</item>
+        <item name="colorSecondaryVariant">@color/T2color5</item>
+        <item name="colorOnSecondary">@color/T2color3</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background" >?attr/colorOnSecondary</item>
+        <item name="android:textColor" >?attr/colorOnPrimary</item>
+    </style>
+
+    <!-- Theme Tela 3 -->
+    <style name="Theme.Tela3" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/T3color1</item>
+        <item name="colorPrimaryVariant">@color/T3color2</item>
+        <item name="colorOnPrimary">@color/T3color2</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/T3color4</item>
+        <item name="colorSecondaryVariant">@color/T3color5</item>
+        <item name="colorOnSecondary">@color/T3color3</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background" >?attr/colorSecondary</item>
+        <item name="android:textColor" >?attr/colorOnPrimary</item>
+    </style>
+
+    <!-- Theme Tela 4 -->
+    <style name="Theme.Tela4" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/T4color1</item>
+        <item name="colorPrimaryVariant">@color/T4color3</item>
+        <item name="colorOnPrimary">@color/T4color4</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/T4color4</item>
+        <item name="colorSecondaryVariant">@color/T4color5</item>
+        <item name="colorOnSecondary">@color/T4color2</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background" >?attr/colorOnSecondary</item>
+        <item name="android:textColor" >?attr/colorSecondaryVariant</item>
+    </style>
+
+</resources>
