@@ -38,7 +38,7 @@
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/T3color1</item>
         <item name="colorPrimaryVariant">@color/T3color2</item>
-        <item name="colorOnPrimary">@color/T3color2</item>
+        <item name="colorOnPrimary">@color/T3color3</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/T3color4</item>
         <item name="colorSecondaryVariant">@color/T3color5</item>
